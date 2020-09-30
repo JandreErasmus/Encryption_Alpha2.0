@@ -1,0 +1,20 @@
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.exe.config
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.exe
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.pdb
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csprojAssemblyReference.cache
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2._0.Form1.resources
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2._0.Properties.Resources.resources
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csproj.GenerateResource.cache
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csproj.CoreCompileInputs.cache
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.exe
+C:\Users\Phillip Degenaar\Desktop\NWU Temp\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.pdb
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.exe.config
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.exe
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\bin\Debug\CMPG215_Encryption_Alpha2.0.pdb
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csprojAssemblyReference.cache
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2._0.Form1.resources
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2._0.Properties.Resources.resources
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.exe
+C:\Users\user-pc\Desktop\2018\CMPG215_Encryption_Alpha2.0\CMPG215_Encryption_Alpha2.0\obj\Debug\CMPG215_Encryption_Alpha2.0.pdb
